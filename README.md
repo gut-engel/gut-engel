@@ -16,7 +16,7 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/gut-engel">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TheLevetatingDev&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="gut-engel's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gut-engel&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="gut-engel's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=gut-engel&theme=radical&hide_border=true&cache_seconds=86400" alt="gut-engel's GitHub Streak" width="49%" />
 </p>
@@ -43,7 +43,7 @@
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
 
 <p align="center">
-  <a href="https://github.com/TheLevetatingDev">
+  <a href="https://github.com/gut-engel">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gut-engel&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 </p>
